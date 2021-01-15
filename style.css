@@ -1,6 +1,4 @@
-.mid-img{
-    padding-left: 260px;
-}
+
 .middle{
     margin-top: 50px;
 }
@@ -28,20 +26,13 @@
     padding-top: 0%;
     border-bottom-color:#ffff ;
 }
-.mn img{
-    height: 400px;
-    width: 360px;
-    padding-left: 60px;
-    padding-top: 15px;
-    
-}
 .clr{
     background-color: whitesmoke;
 }
 .middle img{
     padding: 10px;
     height: 400px;
-    width: 380px;
+    width: 100%;
     background-color:#F1F1F1;
     border-radius: 20px;
    
